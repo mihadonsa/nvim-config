@@ -1,0 +1,35 @@
+# =====================================
+# Neovim Config Git Ignore Template
+# =====================================
+
+# --- Plugin Managers (Packer, Lazy, etc.)
+plugin/packer_compiled.lua
+lazy-lock.json
+
+# --- Cache and temp directories
+.cache/
+swap/
+undo/
+backup/
+sessions/
+session/
+tmp/
+
+# --- OS-specific junk
+.DS_Store
+Thumbs.db
+
+# --- Logs and history
+log/
+*.log
+*.tmp
+
+# --- LSP or build artifacts
+lsp.log
+node_modules/
+*.pyc
+__pycache__/
+
+# --- Optional: local secrets or personal data
+.env
+private.lua
