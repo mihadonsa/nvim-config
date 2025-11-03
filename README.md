@@ -1,4 +1,4 @@
-My personla NeoVim confinguration.
+My personal NeoVim confinguration.
 
     - Work in progress!
 
