@@ -27,6 +27,9 @@ require("lazy").setup({
     lazy = false,
     priority = 1000,
   },
+  -- Treesitter
+  {"nvim-treesitter/nvim-treesitter"
+  },
   -- Harpoon
   {"ThePrimeagen/harpoon",
     branch = "harpoon2",
