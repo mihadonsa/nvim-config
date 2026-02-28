@@ -5,14 +5,16 @@ return {
     require("nvim-treesitter.configs").setup {
       ensure_installed = {
         "lua",
-        "latex",
         "bibtex",
         "python",
         "cpp",
+        "cmake",
         "markdown",
         "markdown_inline"
       },
-      highlight = { enable = true },
+      highlight = { 
+        enable = true,
+      },
       indent = { enable = true },
       incremental_selection = {
         enable = true,
