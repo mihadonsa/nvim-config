@@ -21,6 +21,8 @@ vim.opt.termguicolors = true
 -- Mouse Behavior
 vim.opt.mouse = "a"
 
-
 -- Edditor Wraps
 vim.opt.wrap = false
+
+-- Swapfiles
+vim.opt.swapfile = false
