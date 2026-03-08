@@ -44,8 +44,7 @@
 | `<leader>gs` | Git status |
 | `<leader>ga` | Git add . |
 | `<leader>gc` | Git commit |
-| `<leader>gp` | Git push |
-
+| ':Git push'  | Git push -> do by hand |
 ---
 
 ## **CMake (vim-cmake)**
