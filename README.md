@@ -1,10 +1,12 @@
-My personal NeoVim confinguration.
+# NeoVim confinguration
 
-    - Work in progress!
-
----
+Focused on creating simple, minimal NeoVim configuration for python and c++ coding.
 
 ## Features
 
-## Instalation
+The features of the configuration focus on simple implementation of necesary tools and coding assists.\
 
+## ToDo's
+ - [] Instalation documentation.
+ - [] Dependecies listing and checking.
+ - [] Some better automations of pluggins.

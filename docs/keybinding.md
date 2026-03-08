@@ -27,7 +27,7 @@
 | `<leader>ff` | Find files |
 | `<leader>fg` | Live grep |
 | `<leader>fb` | List buffers |
-| `<leader>fh` | Harpoon menu (if integrated) |
+| `<leader>fh` | Harpoon menu |
 
 ---
 
@@ -64,8 +64,8 @@
 |     `gd`     | Go to definition |
 |     `gr`     | Go to references |
 |     `K`      | Hover info |
-| `<leader>rn` | Rename symbol |
-| `<leader>ca` | Code action |
+| `<leader>rn` | Rename name across the project |
+| `<leader>ca` | Code actions suggestion |
 |     `[d`     | Go to previous diagnostic |
 |     `]d`     | Go to next diagnostic |
 
