@@ -1,4 +1,4 @@
-# Neovim Plugin Keymaps Cheatsheet
+# Plugins Keymaps Cheatsheet
 
 ## **General / Leader Keys**
 |      Key     | Action |
@@ -8,16 +8,16 @@
 ---
 
 ## **Harpoon**
-|     Key     | Action |
-|-------------|--------|
-| `<leader>a` | Add current file to Harpoon |
-|   `<C-e>`   | Toggle Harpoon quick menu (or Telescope view) |
-|   `<C-h>`   | Jump to Harpoon file 1 |
-|   `<C-t>`   | Jump to Harpoon file 2 |
-|   `<C-n>`   | Jump to Harpoon file 3 |
-|   `<C-s>`   | Jump to Harpoon file 4 |
-|  `<C-S-P>`  | Previous Harpoon file |
-|  `<C-S-N>`  | Next Harpoon file |
+|      Key     | Action |
+|--------------|--------|
+|  `<leader>a` | Add current file to Harpoon |
+|    `<C-e>`   | Toggle Harpoon quick menu (or Telescope view) |
+|    `<C-h>`   | Jump to Harpoon file 1 |
+|    `<C-t>`   | Jump to Harpoon file 2 |
+|    `<C-n>`   | Jump to Harpoon file 3 |
+|    `<C-s>`   | Jump to Harpoon file 4 |
+|   `<C-S-P>`  | Previous Harpoon file |
+|   `<C-S-N>`  | Next Harpoon file |
 
 ---
 
@@ -45,6 +45,7 @@
 | `<leader>ga` | Git add . |
 | `<leader>gc` | Git commit |
 | ':Git push'  | Git push -> do by hand |
+
 ---
 
 ## **CMake (vim-cmake)**
@@ -60,21 +61,21 @@
 ## **LSP Navigation**
 |      Key     | Action |
 |--------------|--------|
-| `gd` | Go to definition |
-| `gr` | Go to references |
-| `K` | Hover info |
+|     `gd`     | Go to definition |
+|     `gr`     | Go to references |
+|     `K`      | Hover info |
 | `<leader>rn` | Rename symbol |
 | `<leader>ca` | Code action |
-| `[d` | Go to previous diagnostic |
-| `]d` | Go to next diagnostic |
+|     `[d`     | Go to previous diagnostic |
+|     `]d`     | Go to next diagnostic |
 
 ---
 
 ## **Completion (nvim-cmp)**
-|     Key     | Action |
-|-------------|--------|
-| `<C-Space>` | Trigger completion menu |
-| `<CR>` | Confirm selection |
-| `<Tab>` | Next completion / snippet jump |
-| `<S-Tab>` | Previous completion / snippet jump |
+|      Key     | Action |
+|--------------|--------|
+|  `<C-Space>` | Trigger completion menu |
+|     `<CR>`   | Confirm selection |
+|    `<Tab>`   | Next suggletion |
+|   `<S-Tab>`  | Previous suggestion |
 

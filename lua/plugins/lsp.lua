@@ -17,7 +17,7 @@ return {
       map("n", "gr", vim.lsp.buf.references)
       map("n", "K", vim.lsp.buf.hover)
       map("n", "<leader>rn", vim.lsp.buf.rename)
-      map("n", "<leader>ca", vim.lsp.buf.code_action)
+      map("v", "<leader>ca", vim.lsp.buf.code_action)
       map("n", "[d", vim.diagnostic.goto_prev)
       map("n", "]d", vim.diagnostic.goto_next)
     end
