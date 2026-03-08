@@ -4,7 +4,7 @@
     -[x] Harpoon
     -[x] Telescope
     -[x] UndoTree
-    -[] git/fugitive
+    -[x] git/fugitive
     -[] CMake
     -[] LSP navigations
     -[] completion cmp 

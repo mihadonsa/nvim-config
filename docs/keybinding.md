@@ -43,9 +43,8 @@
 |--------------|--------|
 | `<leader>gs` | Git status |
 | `<leader>ga` | Git add . |
-| `<leader>gd` | Git diff |
-| `<leader>gb` | Git blame |
 | `<leader>gc` | Git commit |
+| `<leader>gp` | Git push |
 
 ---
 
