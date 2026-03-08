@@ -5,7 +5,7 @@
     -[x] Telescope
     -[x] UndoTree
     -[x] git/fugitive
-    -[] CMake
+    -[x] CMake
     -[] LSP navigations
     -[] completion cmp 
     -[] mason/mason LSP
