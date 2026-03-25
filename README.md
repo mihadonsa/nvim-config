@@ -10,3 +10,4 @@ The features of the configuration focus on simple implementation of necesary too
 - [] Instalation documentation.
 - [] Dependecies listing and checking.
 - [] Some better automations of pluggins.
+- [] Implement LAMMPS syntax better.
