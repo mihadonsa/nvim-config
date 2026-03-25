@@ -7,3 +7,6 @@ require("config.settings")
 require("config.plugins")
 require("config.colors")
 require("config.keymap")
+
+-- LAMMPS Syntax
+vim.cmd("syntax on")
